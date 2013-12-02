@@ -58,3 +58,7 @@ Some of the modules present here have slightly different naming patterns that wi
 Some of the solutions presented might not work yet correctly and have not been tested on production.
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/example42/puppet-modules-stdmod/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
